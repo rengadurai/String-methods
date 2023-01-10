@@ -7,6 +7,7 @@ public class StringLength {
 		String myName = "Rengadurai";
 		int len = myName.length();
 		System.out.println("The length of " + myName + " is= " + len);
+		System.out.println("hello world");
 	}
 
 }

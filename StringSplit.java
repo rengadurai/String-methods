@@ -6,7 +6,7 @@ public class StringSplit {
 
 	public static void main(String[] args) {
 		
-		String name = "Raja,Ram,Mohan,Roy";
+		String name = "Raja,Ram,Mohan,Rain";
 		String[] names = name.split(",");
 		
 		System.out.println(names[0]);
